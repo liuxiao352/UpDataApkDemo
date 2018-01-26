@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UpDataApkDemo</string>
+
+    <!--network -->
+    <string name="request_fail">请求失败，请稍后再试</string>
+    <string name="request_time_out_fail">网络连接超时，请稍后再试</string>
+    <string name="request_connect_fail">网络连接错误，请检查您的网络是否正常</string>
+    <string name="request_unknown_host_fail">请求失败，请检查您的网络是否正常</string>
+    <string name="request_illegal_state_fail">请求失败，数据解析错误</string>
+    <string name="request_server_busy_fail">服务器繁忙，请稍后再试</string>
+
+</resources>
